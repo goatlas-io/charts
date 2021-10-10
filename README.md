@@ -1,2 +1,3 @@
-# charts
-Helm Charts for Deploying Atlas
+# Helm Charts
+
+Helm Charts for Deploying Atlas.
