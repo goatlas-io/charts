@@ -2,15 +2,15 @@ apiVersion: v1
 entries:
   atlas:
   - apiVersion: v2
-    appVersion: 0.2.1
-    created: "2021-10-16T16:03:04.635835356Z"
+    appVersion: 0.3.0
+    created: "2021-10-16T16:03:46.242595592Z"
     dependencies:
     - name: envoy
       repository: https://charts.goatlas.io
       version: 1.2.1
     description: Atlas delivers automated secure communications between Prometheus
       and Thanos Sidecars.
-    digest: 0f63db51a8c08b9e94352085f243e9e78248e2b9c0deb0eb1dbeb341d888a0a2
+    digest: 442bb5a802403d3a1d6c53df0db4bc153fd8d9d0e8475a10d4f2a3a8548744da
     name: atlas
     urls:
     - https://charts.goatlas.io/atlas-1.0.0.tgz
@@ -18,10 +18,10 @@ entries:
   envoy:
   - apiVersion: v1
     appVersion: 1.18.3
-    created: "2021-10-16T16:03:04.636725462Z"
+    created: "2021-10-16T16:03:46.243810671Z"
     description: Envoy is an open source edge and service proxy, designed for cloud-native
       applications.
-    digest: 831319b0d8392e3b4eae33bf1cc8433c982c14b8c913d3481201886f980e868d
+    digest: deee1c66f68fcbf5daee18016ddaa312c1cf522b6a46f1632d6441107449c636
     home: https://goatlas.io/
     keywords:
     - envoy
@@ -84,4 +84,4 @@ entries:
     urls:
     - https://charts.goatlas.io/envoy-1.0.0.tgz
     version: 1.0.0
-generated: "2021-10-16T16:03:04.634029045Z"
+generated: "2021-10-16T16:03:46.24043445Z"
